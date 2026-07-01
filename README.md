@@ -1,57 +1,55 @@
-# 👋 Hey, I'm Manas  
-**B.E. CSE** (AI/ML) @ Chandigarh University 
+# Manas Chhabra
+
+**B.E. CSE** (AI/ML) @ Chandigarh University
+
 Shipping deep learning systems and competitive algorithms.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,flask,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,tensorflow" alt="Technical Skills" />
 </p>
 
 ---
 
-## 🎯 What I Work On
-- **Deep Learning & Vision**: RNNs, LSTMs, CNNs, ResNet, Transfer Learning  
-- **Applied ML**: XGBoost, Bayesian Optimization, Ensemble Methods  
-- **Real-Time Systems**: Low-latency inference, edge computing  
-- **Competitive Algorithms**: C++ | Pattern-based problem solving  
+## Technical Focus
+
+- **Deep Learning & Vision**: RNNs, LSTMs, CNNs, ResNet, Transfer Learning
+- **Applied ML**: XGBoost, Bayesian Optimization, Ensemble Methods
+- **Real-Time Systems**: Low-latency inference, edge computing
+- **Competitive Algorithms**: C++ | Pattern-based problem solving
 
 ---
 
-## 💼 Active Projects
-- **Driver Drowsiness Detection** — Edge-optimized facial monitoring system (94–96% accuracy)  
-- **CIFAKE** — Real vs AI-generated image classifier (85%+) using ResNet50  
-- **NOVA** — Voice-first AI interface with Gemini API integration  
-- **Velora** — Real-time news aggregator (16+ concurrent RSS feeds)  
+## Active Projects
+
+- **Driver Drowsiness Detection** — Edge-optimized facial monitoring system (94–96% accuracy)
+- **CIFAKE** — Real vs AI-generated image classifier (85%+) using ResNet50
+- **NOVA** — Voice-first AI interface with Gemini API integration
+- **Velora** — Real-time news aggregator (16+ concurrent RSS feeds)
 
 ---
 
-## 📚 Currently Practicing
-- Advanced DSA patterns (binary search, DP optimization, sliding window variants)  
-- Research implementations in deep learning  
-- Placement prep — DSA + ML systems interview focus  
+## Currently Practicing
+
+- Advanced DSA patterns (binary search, DP optimization, sliding window variants)
+- Research implementations in deep learning
+- Placement prep — DSA + ML systems interview focus
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bytebymanas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytebymanas&layout=compact&theme=tokyonight" />
-</p>
+## Stats & Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bytebymanas&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bytebymanas&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bytebymanas&theme=onedark&row=1&column=7" />
-</p>
+## Contribution Graph
 
-### 🥇 Hackathon Wins
-- **TEKATHON 2026** — Top 40 out of 1,500+ teams (Smart India Hackathon)  
-- **Hackverse 2024** — 🥈 2nd Place National (Healthcare AI)  
-- **BuildVerse 6.0** — 🥉 5th Place National (OSINT Analytics)  
-
----
-
-## 📈 Activity & Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bytebymanas/bytebymanas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bytebymanas/bytebymanas/output/github-contribution-grid-snake.svg">
@@ -60,8 +58,17 @@ Shipping deep learning systems and competitive algorithms.
 
 ---
 
-## 🔗 Links
+## Hackathon Achievements
+
+- **TEKATHON 2026** — Top 40 out of 1,500+ teams (Smart India Hackathon)
+- **Hackverse 2024** — 2nd Place National (Healthcare AI)
+- **BuildVerse 6.0** — 5th Place National (OSINT Analytics)
+
+---
+
+## Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-chhabra-/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=firefox&logoColor=white)](https://bytebymanas.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:work.maanas@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/algobymanas)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:work.maanas@gmail.com)
