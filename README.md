@@ -36,11 +36,10 @@ Shipping deep learning systems and competitive algorithms.
 
 ---
 
-## Stats & Activity
+## Development Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-iota-pink-52.vercel.app/api?username=bytebymanas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats-iota-pink-52.vercel.app/api/top-langs/?username=bytebymanas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytebymanas&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="195" />
 </p>
 
 ---
