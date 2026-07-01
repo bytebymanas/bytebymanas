@@ -1,48 +1,40 @@
-# 👋 Hi, I'm Manas Chhabra  
-
-💻 B.E. Computer Science Engineering  
-🚀 Exploring **AI/ML, Blockchain, and Web3**  
-🤖 Aspiring Entrepreneur | AI Enthusiast | Open Source Learner
+# 👋 Hey, I'm Manas  
+**B.E. CSE** (AI/ML) @ Chandigarh University 
+Shipping deep learning systems and competitive algorithms.
 
 ---
 
-## 🚀 Skills  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,tensorflow" />  
-</p>  
-
-🔹 Also experienced with **Scikit-Learn, AI/ML models, and applied projects**  
-
----
-
-## 📂 Projects  
-
-### ♻ WasteWise  
-AI-powered **B2B marketplace for industrial circularity** – connects industries to optimize waste reuse, reduce landfill impact, and promote a circular economy.  
-
-### 🤖 NOVA  
-A personal **virtual assistant chatbot** integrating AI APIs for weather, jokes, music, and automation tasks. Built with smooth TTS + terminal responses.  
-
-### 🔄 SkillSwap  
-A **regional language-based skill exchange platform** – helping people connect and trade skills within their community.  
+## 🎯 What I Work On
+- **Deep Learning & Vision**: RNNs, LSTMs, CNNs, ResNet, Transfer Learning  
+- **Applied ML**: XGBoost, Bayesian Optimization, Ensemble Methods  
+- **Real-Time Systems**: Low-latency inference, edge computing  
+- **Competitive Algorithms**: C++ | Pattern-based problem solving  
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bytebymanas&show_icons=true&theme=tokyonight" alt="stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytebymanas&layout=compact&theme=tokyonight" alt="langs" height="180" />
-</p>  
+## 💼 Active Projects
+- **Driver Drowsiness Detection** — Edge-optimized facial monitoring system (94–96% accuracy)  
+- **CIFAKE** — Real vs AI-generated image classifier (85%+) using ResNet50  
+- **NOVA** — Voice-first AI interface with Gemini API integration  
+- **Velora** — Real-time news aggregator 
 
 ---
 
-## 🏆 GitHub Profile Trophy  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bytebymanas&theme=onedark&row=1&column=6" alt="trophy" />
-</p>
+## 📚 Currently Practicing
+- Advanced DSA patterns (binary search, DP optimization, sliding window variants)  
+- Research implementations in deep learning  
+- Placement prep — DSA + ML systems interview focus  
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/manas-chhabra-/))  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.maanas@gmail.com)  
+## 🏆 Highlights
+- **TEKATHON 2026** — Top 40 out of 1,500+ teams (Smart India Hackathon)  
+- **Hackverse 2024** — 2nd Place National (Healthcare AI)  
+- **BuildVerse 6.0** — 5th Place National (OSINT Analytics)  
+
+---
+
+## 🔗 Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-chhabra-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=firefox&logoColor=white)](https://bytebymanas.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:work.maanas@gmail.com)
