@@ -5,7 +5,7 @@
 Shipping deep learning systems and competitive algorithms.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,tensorflow" alt="Technical Skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,flask" alt="Technical Skills" />
 </p>
 
 ---
