@@ -1,35 +1,30 @@
 # Manas Chhabra
-
 **B.E. CSE** (AI/ML) @ Chandigarh University
-
 Shipping deep learning systems and competitive algorithms.
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,flask" alt="Technical Skills" />
 </p>
 
 ---
 
-## Technical Focus
-
-- **Deep Learning & Vision**: RNNs, LSTMs, CNNs, ResNet, Transfer Learning
-- **Applied ML**: XGBoost, Bayesian Optimization, Ensemble Methods
-- **Real-Time Systems**: Low-latency inference, edge computing
-- **Competitive Algorithms**: C++ | Pattern-based problem solving
+## TECHNICAL FOCUS
+- **Languages & DSA**: Python, C++, Java 17, SQL, Data Structures & Algorithms
+- **AI & ML**: TensorFlow, PyTorch, Scikit-learn, XGBoost, NLP, Deep Learning, Transfer Learning
+- **GenAI & LLMs**: LLMs, Fine-tuning, RAG, Prompt Engineering, Embeddings, ChromaDB
+- **Backend**: FastAPI, REST APIs, PostgreSQL, Linux, Git
+- **Specialized**: RNNs, LSTMs, CNNs, ResNet, Edge Computing, Real-time Inference
 
 ---
 
 ## Active Projects
-
-- **Driver Drowsiness Detection** — Edge-optimized facial monitoring system (94–96% accuracy)
-- **CIFAKE** — Real vs AI-generated image classifier (85%+) using ResNet50
-- **NOVA** — Voice-first AI interface with Gemini API integration
-- **Velora** — Real-time news aggregator (16+ concurrent RSS feeds)
+- **Deep Learning Fake News Detector** | TensorFlow, Transformers, RNN/LSTM — Sequential text classification with Word2Vec & BPE tokenization
+- **Driver Drowsiness Detection** | MediaPipe, OpenCV — Edge-optimized facial monitoring (94–96% accuracy)
+- **CIFAKE** | ResNet50, Transfer Learning — Real vs AI-generated image classifier (85%+ accuracy)
+- **NOVA** | Gemini API, Voice Processing — Voice-first AI interface with multimodal capabilities
 
 ---
 
 ## Currently Practicing
-
 - Advanced DSA patterns (binary search, DP optimization, sliding window variants)
 - Research implementations in deep learning
 - Placement prep — DSA + ML systems interview focus
@@ -37,7 +32,6 @@ Shipping deep learning systems and competitive algorithms.
 ---
 
 ## Development Metrics
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytebymanas&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="195" />
 </p>
@@ -45,7 +39,6 @@ Shipping deep learning systems and competitive algorithms.
 ---
 
 ## Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bytebymanas/bytebymanas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bytebymanas/bytebymanas/output/github-contribution-grid-snake.svg">
@@ -55,7 +48,6 @@ Shipping deep learning systems and competitive algorithms.
 ---
 
 ## Hackathon Achievements
-
 - **TEKATHON 2026** — Top 40 out of 1,500+ teams (Smart India Hackathon)
 - **Hackverse 2024** — 2nd Place National (Healthcare AI)
 - **BuildVerse 6.0** — 5th Place National (OSINT Analytics)
@@ -63,7 +55,6 @@ Shipping deep learning systems and competitive algorithms.
 ---
 
 ## Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-chhabra-/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=firefox&logoColor=white)](https://bytebymanas.me)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/algobymanas)
