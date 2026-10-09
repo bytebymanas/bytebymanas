@@ -13,15 +13,19 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake SVG files
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: bytebymanas
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=F97316&color_dots=1C1917,FED7AA,FBBF24,EA580C,F97316
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FBBF24&color_dots=1C1917,7C2D12,EA580C,F97316,FBBF24
-      - uses: crazy-max/ghaction-github-pages@v4
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23FBBF24&color_dots=%231C1917,%237C2D12,%23EA580C,%23F97316,%23FBBF24
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F97316&color_dots=%231C1917,%237C2D12,%23EA580C,%23F97316,%23FBBF24
+
+      - name: Push snake files to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
