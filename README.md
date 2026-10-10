@@ -160,8 +160,7 @@ Flags a drowsy driver live on plain CPU hardware.
 <img
   width="100%"
   alt="Blue animated GitHub contribution snake"
-  src="https://raw.githubusercontent.com/bytebymanas/bytebymanas/output/github-contribution-grid-snake.svg?v=blue-v2"
-/>
+   src="https://raw.githubusercontent.com/bytebymanas/bytebymanas/output/blue-contribution-snake.svg" />
 
 </div>
 
