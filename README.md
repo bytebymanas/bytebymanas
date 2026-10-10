@@ -162,6 +162,8 @@ Flags a drowsy driver live on plain CPU hardware.
 <!-- ============ CONNECT ============ -->
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:3B82F6,100:60A5FA" />
 
+</div>
+
 ## `> connect`
 
 <div align="center">
