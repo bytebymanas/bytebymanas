@@ -157,11 +157,11 @@ Flags a drowsy driver live on plain CPU hardware.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bytebymanas&bg_color=0F172A&color=BFDBFE&line=3B82F6&point=60A5FA&area=true&area_color=2563EB&hide_border=true&radius=8" />
-
-<br/><br/>
-
-<img width="100%" alt="Blue animated GitHub contribution snake" src="https://raw.githubusercontent.com/bytebymanas/bytebymanas/output/github-contribution-grid-snake.svg?v=blue-final" />
+<img
+  width="100%"
+  alt="Blue animated GitHub contribution snake"
+  src="https://raw.githubusercontent.com/bytebymanas/bytebymanas/output/github-contribution-grid-snake.svg?v=blue-v2"
+/>
 
 </div>
 
