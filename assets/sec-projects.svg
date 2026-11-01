@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="PROJECTS">
-<defs><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#2563EB"/><stop offset=".6" stop-color="#3B82F6" stop-opacity=".5"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></linearGradient><radialGradient id="sp"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></radialGradient><clipPath id="c"><rect width="1200" height="64" rx="14"/></clipPath></defs>
-<rect width="1200" height="64" rx="14" fill="#050A18"/>
-<text x="26" y="38" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#60A5FA">04</text>
-<text x="58" y="38" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#7C8DB0">/</text>
-<text x="78" y="40" font-family="Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="24" letter-spacing="7" fill="#FFFFFF">PROJECTS</text>
-<text x="1174" y="38" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#7C8DB0" text-anchor="end">selected work</text>
-<g clip-path="url(#c)"><rect x="0" y="60" width="1200" height="2" fill="url(#ln)"/>
-<circle cy="61" r="7" fill="url(#sp)"><animate attributeName="cx" values="0;1200" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="5s" repeatCount="indefinite"/></circle></g>
-<rect x=".5" y=".5" width="1199" height="63" rx="14" fill="none" stroke="#3B82F6" stroke-opacity=".3"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 46" width="1200" height="46" role="img" aria-label="PROJECTS">
+<defs>
+<linearGradient id="gf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#EFE9D8" stop-opacity=".12"/><stop offset="1" stop-color="#EFE9D8" stop-opacity=".03"/></linearGradient>
+<linearGradient id="gs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EFE9D8" stop-opacity=".55"/><stop offset=".45" stop-color="#EFE9D8" stop-opacity=".08"/><stop offset="1" stop-color="#C8FF2E" stop-opacity=".4"/></linearGradient>
+<linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#EFE9D8" stop-opacity="0"/><stop offset=".5" stop-color="#EFE9D8" stop-opacity=".65"/><stop offset="1" stop-color="#EFE9D8" stop-opacity="0"/></linearGradient>
+<filter id="bl" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="46"/></filter>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#EFE9D8" fill-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="46" rx="12" fill="#07080A"/>
+<text x="22" y="29" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="2" fill="#C8FF2E" fill-opacity="0.95" text-anchor="start">[03]</text>
+<text x="66" y="29" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="7" fill="#EFE9D8" fill-opacity="0.9" text-anchor="start">PROJECTS</text>
+<path d="M238,23 H1178" stroke="#EFE9D8" stroke-opacity=".14"/>
+<rect x="1176" y="19" width="2" height="8" fill="#C8FF2E"/>
+<rect y="22" width="46" height="2" fill="#C8FF2E"><animate attributeName="x" values="238;1130;238" dur="6s" repeatCount="indefinite"/></rect>
 </svg>
