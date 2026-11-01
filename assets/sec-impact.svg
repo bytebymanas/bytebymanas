@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="IN NUMBERS">
+<defs><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#2563EB"/><stop offset=".6" stop-color="#3B82F6" stop-opacity=".5"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></linearGradient><radialGradient id="sp"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></radialGradient><clipPath id="c"><rect width="1200" height="64" rx="14"/></clipPath></defs>
+<rect width="1200" height="64" rx="14" fill="#050A18"/>
+<text x="26" y="38" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#60A5FA">02</text>
+<text x="58" y="38" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#7C8DB0">/</text>
+<text x="78" y="40" font-family="Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="24" letter-spacing="7" fill="#FFFFFF">IN NUMBERS</text>
+<text x="1174" y="38" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#7C8DB0" text-anchor="end">shipped, measured</text>
+<g clip-path="url(#c)"><rect x="0" y="60" width="1200" height="2" fill="url(#ln)"/>
+<circle cy="61" r="7" fill="url(#sp)"><animate attributeName="cx" values="0;1200" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="5s" repeatCount="indefinite"/></circle></g>
+<rect x=".5" y=".5" width="1199" height="63" rx="14" fill="none" stroke="#3B82F6" stroke-opacity=".3"/>
+</svg>

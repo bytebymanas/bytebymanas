@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="Tech stack. Pipeline from data to embeddings, vector database, LLM, agents and API. Languages, ML and deep learning, LLMs, RAG and agents, backend and tools.">
+<defs><linearGradient id="ch" x1="0" x2="1"><stop offset="0" stop-color="#2563EB" stop-opacity=".45"/><stop offset="1" stop-color="#60A5FA" stop-opacity=".15"/></linearGradient>
+<radialGradient id="dg"><stop offset="0" stop-color="#DBEAFE"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#3B82F6" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="520" rx="18" fill="#050A18"/><rect width="1200" height="520" rx="18" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="1199" height="519" rx="18" fill="none" stroke="#3B82F6" stroke-opacity=".35"/>
+<text x="36" y="40" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="3" fill="#7C8DB0">THE PIPELINE I BUILD AROUND</text>
+<rect x="36" y="60" width="150" height="76" rx="14" fill="#0A1226" stroke="#3B82F6" stroke-opacity=".6"/>
+<text x="52" y="84" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" letter-spacing="2" fill="#60A5FA">01</text>
+<text x="52" y="108" font-family="Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="18" fill="#FFFFFF">Data</text>
+<text x="52" y="126" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#7C8DB0">pandas · NumPy</text>
+<path d="M192,98.0 H226" stroke="#60A5FA" stroke-opacity=".7" stroke-width="1.6" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="0;-18" dur="1s" repeatCount="indefinite"/></path>
+<path d="M221,94.0 L227,98.0 L221,102.0" fill="none" stroke="#60A5FA" stroke-width="1.6"/>
+<circle cy="98.0" r="6" fill="url(#dg)"><animate attributeName="cx" values="192;226" dur="1.8s" begin="-0.00s" repeatCount="indefinite"/></circle>
+<rect x="232" y="60" width="150" height="76" rx="14" fill="#0A1226" stroke="#3B82F6" stroke-opacity=".6"/>
+<text x="248" y="84" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" letter-spacing="2" fill="#60A5FA">02</text>
+<text x="248" y="108" font-family="Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="18" fill="#FFFFFF">Embeddings</text>
+<text x="248" y="126" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#7C8DB0">text → vectors</text>
+<path d="M388,98.0 H421" stroke="#60A5FA" stroke-opacity=".7" stroke-width="1.6" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="0;-18" dur="1s" repeatCount="indefinite"/></path>
+<path d="M416,94.0 L422,98.0 L416,102.0" fill="none" stroke="#60A5FA" stroke-width="1.6"/>
+<circle cy="98.0" r="6" fill="url(#dg)"><animate attributeName="cx" values="388;421" dur="1.8s" begin="-0.35s" repeatCount="indefinite"/></circle>
+<rect x="427" y="60" width="150" height="76" rx="14" fill="#0A1226" stroke="#3B82F6" stroke-opacity=".6"/>
+<text x="443" y="84" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" letter-spacing="2" fill="#60A5FA">03</text>
+<text x="443" y="108" font-family="Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="18" fill="#FFFFFF">Vector DB</text>
+<text x="443" y="126" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#7C8DB0">ChromaDB</text>
+<path d="M583,98.0 H617" stroke="#60A5FA" stroke-opacity=".7" stroke-width="1.6" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="0;-18" dur="1s" repeatCount="indefinite"/></path>
+<path d="M612,94.0 L618,98.0 L612,102.0" fill="none" stroke="#60A5FA" stroke-width="1.6"/>
+<circle cy="98.0" r="6" fill="url(#dg)"><animate attributeName="cx" values="583;617" dur="1.8s" begin="-0.70s" repeatCount="indefinite"/></circle>
+<rect x="623" y="60" width="150" height="76" rx="14" fill="#0A1226" stroke="#3B82F6" stroke-opacity=".6"/>
+<text x="639" y="84" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" letter-spacing="2" fill="#60A5FA">04</text>
+<text x="639" y="108" font-family="Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="18" fill="#FFFFFF">LLM</text>
+<text x="639" y="126" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#7C8DB0">Ollama · Qwen2.5</text>
+<path d="M779,98.0 H812" stroke="#60A5FA" stroke-opacity=".7" stroke-width="1.6" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="0;-18" dur="1s" repeatCount="indefinite"/></path>
+<path d="M807,94.0 L813,98.0 L807,102.0" fill="none" stroke="#60A5FA" stroke-width="1.6"/>
+<circle cy="98.0" r="6" fill="url(#dg)"><animate attributeName="cx" values="779;812" dur="1.8s" begin="-1.05s" repeatCount="indefinite"/></circle>
+<rect x="818" y="60" width="150" height="76" rx="14" fill="#0A1226" stroke="#3B82F6" stroke-opacity=".6"/>
+<text x="834" y="84" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" letter-spacing="2" fill="#60A5FA">05</text>
+<text x="834" y="108" font-family="Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="18" fill="#FFFFFF">Agents</text>
+<text x="834" y="126" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#7C8DB0">CrewAI</text>
+<path d="M974,98.0 H1008" stroke="#60A5FA" stroke-opacity=".7" stroke-width="1.6" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="0;-18" dur="1s" repeatCount="indefinite"/></path>
+<path d="M1003,94.0 L1009,98.0 L1003,102.0" fill="none" stroke="#60A5FA" stroke-width="1.6"/>
+<circle cy="98.0" r="6" fill="url(#dg)"><animate attributeName="cx" values="974;1008" dur="1.8s" begin="-1.40s" repeatCount="indefinite"/></circle>
+<rect x="1014" y="60" width="150" height="76" rx="14" fill="#0A1226" stroke="#22D3EE" stroke-opacity=".6"/>
+<text x="1030" y="84" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" letter-spacing="2" fill="#60A5FA">06</text>
+<text x="1030" y="108" font-family="Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="18" fill="#FFFFFF">API</text>
+<text x="1030" y="126" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#7C8DB0">FastAPI</text>
+<path d="M36,164 H1164" stroke="#3B82F6" stroke-opacity=".16"/>
+<text x="36" y="203" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="3" fill="#60A5FA">LANGUAGES</text>
+<rect x="286" y="180" width="82" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="302" cy="199" r="3" fill="#22D3EE"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" begin="-0.0s" repeatCount="indefinite"/></circle>
+<text x="314" y="204" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="48" lengthAdjust="spacingAndGlyphs">Python</text>
+<rect x="380.0" y="180" width="58" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="396.0" cy="199" r="3" fill="#60A5FA"><animate attributeName="opacity" values=".3;1;.3" dur="2.9s" begin="-0.4s" repeatCount="indefinite"/></circle>
+<text x="408.0" y="204" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="24" lengthAdjust="spacingAndGlyphs">C++</text>
+<rect x="450.0" y="180" width="66" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="466.0" cy="199" r="3" fill="#22D3EE"><animate attributeName="opacity" values=".3;1;.3" dur="3.4s" begin="-0.7s" repeatCount="indefinite"/></circle>
+<text x="478.0" y="204" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="32" lengthAdjust="spacingAndGlyphs">Java</text>
+<rect x="528.0" y="180" width="58" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="544.0" cy="199" r="3" fill="#60A5FA"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" begin="-1.1s" repeatCount="indefinite"/></circle>
+<text x="556.0" y="204" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="24" lengthAdjust="spacingAndGlyphs">SQL</text>
+<path d="M36,238 H1164" stroke="#3B82F6" stroke-opacity=".16"/>
+<text x="36" y="277" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="3" fill="#60A5FA">ML / DL</text>
+<rect x="286" y="254" width="114" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="302" cy="273" r="3" fill="#60A5FA"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" begin="-1.1s" repeatCount="indefinite"/></circle>
+<text x="314" y="278" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="80" lengthAdjust="spacingAndGlyphs">TensorFlow</text>
+<rect x="412.0" y="254" width="90" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="428.0" cy="273" r="3" fill="#22D3EE"><animate attributeName="opacity" values=".3;1;.3" dur="2.9s" begin="-1.5s" repeatCount="indefinite"/></circle>
+<text x="440.0" y="278" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="56" lengthAdjust="spacingAndGlyphs">PyTorch</text>
+<rect x="514.0" y="254" width="130" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="530.0" cy="273" r="3" fill="#60A5FA"><animate attributeName="opacity" values=".3;1;.3" dur="3.4s" begin="-1.9s" repeatCount="indefinite"/></circle>
+<text x="542.0" y="278" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="96" lengthAdjust="spacingAndGlyphs">Scikit-learn</text>
+<rect x="656.0" y="254" width="90" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="672.0" cy="273" r="3" fill="#22D3EE"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" begin="-2.2s" repeatCount="indefinite"/></circle>
+<text x="684.0" y="278" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="56" lengthAdjust="spacingAndGlyphs">XGBoost</text>
+<rect x="758.0" y="254" width="82" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="774.0" cy="273" r="3" fill="#60A5FA"><animate attributeName="opacity" values=".3;1;.3" dur="2.9s" begin="-2.6s" repeatCount="indefinite"/></circle>
+<text x="786.0" y="278" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="48" lengthAdjust="spacingAndGlyphs">Pandas</text>
+<rect x="852.0" y="254" width="74" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="868.0" cy="273" r="3" fill="#22D3EE"><animate attributeName="opacity" values=".3;1;.3" dur="3.4s" begin="-3.0s" repeatCount="indefinite"/></circle>
+<text x="880.0" y="278" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="40" lengthAdjust="spacingAndGlyphs">NumPy</text>
+<rect x="938.0" y="254" width="82" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="954.0" cy="273" r="3" fill="#60A5FA"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" begin="-3.3s" repeatCount="indefinite"/></circle>
+<text x="966.0" y="278" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="48" lengthAdjust="spacingAndGlyphs">OpenCV</text>
+<path d="M36,312 H1164" stroke="#3B82F6" stroke-opacity=".16"/>
+<text x="36" y="351" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="3" fill="#60A5FA">LLMs · RAG · AGENTS</text>
+<rect x="286" y="328" width="58" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="302" cy="347" r="3" fill="#22D3EE"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" begin="-2.2s" repeatCount="indefinite"/></circle>
+<text x="314" y="352" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="24" lengthAdjust="spacingAndGlyphs">RAG</text>
+<rect x="356.0" y="328" width="114" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="372.0" cy="347" r="3" fill="#60A5FA"><animate attributeName="opacity" values=".3;1;.3" dur="2.9s" begin="-2.6s" repeatCount="indefinite"/></circle>
+<text x="384.0" y="352" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="80" lengthAdjust="spacingAndGlyphs">Embeddings</text>
+<rect x="482.0" y="328" width="98" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="498.0" cy="347" r="3" fill="#22D3EE"><animate attributeName="opacity" values=".3;1;.3" dur="3.4s" begin="-3.0s" repeatCount="indefinite"/></circle>
+<text x="510.0" y="352" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="64" lengthAdjust="spacingAndGlyphs">ChromaDB</text>
+<rect x="592.0" y="328" width="82" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="608.0" cy="347" r="3" fill="#60A5FA"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" begin="-3.3s" repeatCount="indefinite"/></circle>
+<text x="620.0" y="352" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="48" lengthAdjust="spacingAndGlyphs">Ollama</text>
+<rect x="686.0" y="328" width="90" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="702.0" cy="347" r="3" fill="#22D3EE"><animate attributeName="opacity" values=".3;1;.3" dur="2.9s" begin="-3.7s" repeatCount="indefinite"/></circle>
+<text x="714.0" y="352" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="56" lengthAdjust="spacingAndGlyphs">Qwen2.5</text>
+<rect x="788.0" y="328" width="82" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="804.0" cy="347" r="3" fill="#60A5FA"><animate attributeName="opacity" values=".3;1;.3" dur="3.4s" begin="-4.1s" repeatCount="indefinite"/></circle>
+<text x="816.0" y="352" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="48" lengthAdjust="spacingAndGlyphs">CrewAI</text>
+<path d="M36,386 H1164" stroke="#3B82F6" stroke-opacity=".16"/>
+<text x="36" y="425" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="3" fill="#60A5FA">BACKEND · TOOLS</text>
+<rect x="286" y="402" width="90" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="302" cy="421" r="3" fill="#60A5FA"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" begin="-3.3s" repeatCount="indefinite"/></circle>
+<text x="314" y="426" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="56" lengthAdjust="spacingAndGlyphs">FastAPI</text>
+<rect x="388.0" y="402" width="114" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="404.0" cy="421" r="3" fill="#22D3EE"><animate attributeName="opacity" values=".3;1;.3" dur="2.9s" begin="-3.7s" repeatCount="indefinite"/></circle>
+<text x="416.0" y="426" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="80" lengthAdjust="spacingAndGlyphs">PostgreSQL</text>
+<rect x="514.0" y="402" width="82" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="530.0" cy="421" r="3" fill="#60A5FA"><animate attributeName="opacity" values=".3;1;.3" dur="3.4s" begin="-4.1s" repeatCount="indefinite"/></circle>
+<text x="542.0" y="426" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="48" lengthAdjust="spacingAndGlyphs">SQLite</text>
+<rect x="608.0" y="402" width="58" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="624.0" cy="421" r="3" fill="#22D3EE"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" begin="-4.4s" repeatCount="indefinite"/></circle>
+<text x="636.0" y="426" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="24" lengthAdjust="spacingAndGlyphs">Git</text>
+<rect x="678.0" y="402" width="82" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="694.0" cy="421" r="3" fill="#60A5FA"><animate attributeName="opacity" values=".3;1;.3" dur="2.9s" begin="-4.8s" repeatCount="indefinite"/></circle>
+<text x="706.0" y="426" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="48" lengthAdjust="spacingAndGlyphs">GitHub</text>
+<rect x="772.0" y="402" width="74" height="38" rx="19" fill="url(#ch)" stroke="#3B82F6" stroke-opacity=".55"/>
+<circle cx="788.0" cy="421" r="3" fill="#22D3EE"><animate attributeName="opacity" values=".3;1;.3" dur="3.4s" begin="-5.2s" repeatCount="indefinite"/></circle>
+<text x="800.0" y="426" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#DBEAFE" textLength="40" lengthAdjust="spacingAndGlyphs">Linux</text>
+</svg>
