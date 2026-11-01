@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/bytebymanas/bytebymanas/output/blue-contribution-snake.svg" />
+<img width="100%" alt="Lime contribution snake" src="https://raw.githubusercontent.com/bytebymanas/bytebymanas/output/lime-contribution-snake.svg" />
 
 </div>
 
